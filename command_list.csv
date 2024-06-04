@@ -1,0 +1,554 @@
+    1   /usr/bin/env /usr/local/bin/python3 /Users/eugene/.vscode/extensions/ms-python.python-2023.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 54635 -- /Users/eugene/Documents/game/main.py 
+    2  /usr/local/bin/python3 /Users/eugene/Documents/game/main.py
+    3  /usr/local/bin/python3 /Users/eugene/Documents/game/main.py
+    4  /usr/local/bin/python3 /Users/eugene/Documents/game/main.py
+    5  /usr/local/bin/python3 /Users/eugene/Documents/game/main.py
+    6  /usr/local/bin/python3 /Users/eugene/Documents/game/main.py
+    7  /usr/local/bin/python3 /Users/eugene/Documents/game/main.py
+    8  /usr/local/bin/python3 /Users/eugene/Documents/game/main.py
+    9  /usr/local/bin/python3 /Users/eugene/Documents/game/main.py
+   10  /usr/local/bin/python3 /Users/eugene/Documents/game/main.py
+   11  python3 -m pip install pygame
+   12  python3 main.py
+   13  python3 main.py
+   14  pytho3 main.py
+   15  python3 game
+   16  python3 main.py
+   17  python3 main.py
+   18  python3 main.py
+   19  python3 main.py
+   20  python3 main.py
+   21  python
+   22  clear
+   23  python main.py
+   24  help cd
+   25  mna cd
+   26  man cd
+   27  dash
+   28  help man
+   29  man help
+   30  clear
+   31  man
+   32  tail
+   33  clear
+   34  mkdir123
+   35  clear
+   36  mkdir12345
+   37  mkdir 12345
+   38  clear
+   39  ifconfig
+   40  clear
+   41  date
+   42  clear
+   43  system_profiler
+   44  clearclearclear
+   45  clear
+   46  whoami
+   47  clear
+   48  pwd
+   49  df-h
+   50  df
+   51  clear
+   52  help man
+   53  clear
+   54  cd Desktop
+   55  cd QA35
+   56  cd ../
+   57  cd /Users/eugene/Desktop/QA35 
+   58  cd ../
+   59  cd QA35
+   60  clear
+   61  pwd
+   62  ls -l
+   63  touch test.txt
+   64  ls -l
+   65  clear
+   66  vim test.txt
+   67  cat test.txt
+   68  cat test.txt
+   69  clear
+   70  mkdir Yevhen
+   71  ls -l
+   72  cp test.txt Yevhen
+   73  ls -l
+   74  cd Yevhen
+   75  ls -l
+   76  rm test.txt
+   77  ls -l
+   78  ping google.com
+   79  clear
+   80  date
+   81  systeminfo
+   82  clear
+   83  system_profiler
+   84  clear
+   85  ls -l
+   86  cd ../
+   87  ls -l
+   88  chmod 444 test.txt
+   89  ls -l
+   90  cd ../
+   91  ls -l
+   92  clear
+   93  cd ../
+   94  clear
+   95  ls -l
+   96  clear
+   97  cd ../
+   98  clear
+   99  chmod 444 test.txt
+  100  clear
+  101  ls -l
+  102  clear
+  103  cd /Users/eugene/Desktop/QA35 
+  104  clear
+  105  chmod 444 test.txt
+  106  ls -l
+  107  cleqar
+  108  clear
+  109  clear
+  110  git clone https://github.com/YevhenSushchevskyi/GitQA35.git
+  111  clear
+  112  cd GitQA35
+  113  git config --global user.name "Yevhen"
+  114  git config --global user.email "www.belorusskyi@gmail.com"
+  115  clear
+  116  touch file.txt
+  117  ls -l
+  118  git status
+  119  git add file.txt
+  120  git status
+  121  git commit -m "First commit"
+  122  git push
+  123  git push
+  124  git push
+  125  git push
+  126  clear
+  127  git push
+  128  clear
+  129  git push
+  130  clear
+  131  cd /Users/eugene/Desktop/QA35 
+  132  global user.name "Yevhen"
+  133  clear
+  134  git branch
+  135  clear
+  136  git checkout -b test
+  137  clear
+  138  touch test.txt
+  139  ls -l
+  140  git status
+  141  git add test.txt
+  142  clear
+  143  git commit -m "second commit"
+  144  clear
+  145  git push
+  146  clear
+  147  clear
+  148  qwde
+  149  wq
+  150  clear
+  151  clear
+  152  clear
+  153  history -c &&\nclear
+  154  clear
+  155  histiory -c && rm
+  156  clear
+  157  history -c && rm
+  158  clear
+  159  clear
+  160  фыаasdcfclear
+  161  clear
+  162  history -c && rm 
+  163  clear
+  164  git clone https://github.com/YevhenSushchevskyi/HW_10.git
+  165  cd 
+  166  cd HW_10
+  167  touch text_ignore.txt
+  168  ls -l
+  169  clear
+  170  vim .gitignore "text_ignore.txt"
+  171  git status
+  172  clear
+  173  git status text_ignore.txt
+  174  git add
+  175  clear
+  176  clear
+  177  history -c && rm ~/.bash_history
+  178  clear
+  179  cd HW_10
+  180  "history -c"
+  181  history -c
+  182  history
+  183  history -c
+  184  clear
+  185  history
+  186  history clear
+  187  history
+  188  clear
+  189  cd /Users/eugene/Desktop/HW_10 
+  190  clone "HW_10"
+  191  gir clone "HW_10"
+  192  git clone "HW_10"
+  193  clear
+  194  git clone https://github.com/YevhenSushchevskyi/HW_10.git
+  195  cd "HW_10"
+  196  touch text_ignore.txt
+  197  vim .gitignore
+  198  git status
+  199  git add
+  200  commit
+  201  "git add."
+  202  git add.
+  203  git add .
+  204  git add text_ignore.txt
+  205  git status
+  206  git commit
+  207  git commit -m "First commit"
+  208  clear
+  209  clear
+  210  clear
+  211  clear
+  212  clear
+  213  vim .gitignorelear
+  214  clear
+  215  touch "main_test.txt"
+  216  git add 
+  217  git add main_test.txt
+  218  git add "main_test.txt"
+  219  git commit
+  220  cd /Users/eugene/Desktop/HW_10/HW_10 
+  221  git commit -m "Second_commit"
+  222  git branch develop
+  223  gir checkout develop
+  224  git checkout develop
+  225  touch "develop_test.txt"
+  226  git add -m "develop_test.txt"
+  227  get commit
+  228  git commit
+  229  git checkout maain
+  230  git checkout main
+  231  git merge develop
+  232  git merge <develop >
+  233  git merge <develop>
+  234  git merge develop
+  235  git log
+  236  history 0 > command_list.csv
+  237  git add
+  238  git add -m
+  239  git commit -m "Thirty_commit"
+  240  git push
+  241  clear
+  242  git branch develop
+  243  checkout develop
+  244  git checkout develop
+  245  lm -s
+  246  ls - m
+  247  ls - l
+  248  lm -l
+  249  clear
+  250  git checkout develop
+  251  git add -m develop_test.txt
+  252  git commit
+  253  git checkout main
+  254  gir merge develop
+  255  git merge develop
+  256  git merge main
+  257  git merge develop
+  258  git checkout -b develop
+  259  clear
+  260  git merge develop
+  261  git global user_name
+  262  git --help
+  263  clear
+  264  0 > command_list.csv\n
+  265  git 0 > command_list.csv\n
+  266  clear
+  267  git add command_list.csv
+  268  git commit
+  269  history -c
+  270  history -c
+  271  clear
+  272  history
+  273  "history -c"
+  274  clear
+  275  git add
+  276  history -c
+  277  history -clear
+  278  history -b
+  279  -m
+  280  history -m
+  281  history 0 > command_list.csv\n
+  282  clear
+  283  git history 0 > command_list.csv
+  284  history 0 > command_list.csv\n
+  285  git add command_list.csv
+  286  cd /Users/eugene/Desktop/HW_10/HW_10 
+  287  git add command_list.csv
+  288  git status
+  289  git push
+  290  clear
+  291  git push
+  292  clear
+  293  cd /Users/eugene/Desktop/HW_10/HW_10 
+  294  git check main
+  295  git checkout main
+  296  #Test results file
+  297  clear
+  298  git add
+  299  git add command_list.csv
+  300  git add -m command_list.csv
+  301  git commit
+  302  --global user.name YevhenSushchevskyi
+  303  history -c && rm ~/.bash_history
+  304  сдуфк
+  305  clear
+  306  clear
+  307  git push
+  308  clear
+  309  cd /Users/eugene/Desktop/HW_10 
+  310  history -c && rm ~/.bash_history
+  311  git config --global user.name "YevhenSushchevskyi"
+  312  git config user.mail "www.belorusskyi@gmail.com"
+  313  clear
+  314  git config user.name. "YevhenSushchevskyi"
+  315  git config user.name "YevhenSushchevskyi"
+  316  clear
+  317  cd /Users/eugene/Desktop/HW_10 
+  318  history -c && rm ~/.bash_history
+  319  history -c
+  320  > ~/.bash_history
+  321  cd /Users/eugene/Desktop/HW_10 
+  322  > ~/.bash_history
+  323  cd /Users/eugene/Desktop/HW_10 
+  324  git config user.name "YevhenSushchevskyi"
+  325  clear
+  326  > ~/.bash_history
+  327  > ~/.bash_history
+  328  cd /Users/eugene/Desktop/HW_10 
+  329  history -p
+  330  history -p
+  331  ssh-keygen -t rsa -b 4096 -C "05071995qwqw"
+  332  cd /Users/eugene/Desktop/HW_10 
+  333  git clone https://github.com/YevhenSushchevskyi/HW_10.git
+  334  cd /Users/eugene/Desktop/HW_10/HW_10 
+  335  touch text_ignore.txt 
+  336  echo "text_ignore.txt"
+  337  echo "text_ignore.txt" clear
+  338  clear
+  339  echo "text_ignore.txt" >> .gitignore
+  340  git add .\n
+  341  git commit -m "Added text_ignore.txt file and updated .gitignore"
+  342  touch main_test.txt
+  343  git add .
+  344  git commit -m "Added main_test.txt file"
+  345  git branch develop
+  346  git checkout develop
+  347  touch develop_test.txt\n
+  348  git add .
+  349  echo "Your changes here" >> develop_test.txt
+  350  git status
+  351  git add .
+  352  git commit -m "Updated develop_test.txt file"
+  353  git checkout main
+  354  git chekout main
+  355  git checkout main
+  356  git commit -m "Updated develop_test.txt file"
+  357  git add develop_test.txt
+  358  git commit -m "Update develop_test.txt"
+  359  git checkout main
+  360  git merge main
+  361  git log
+  362  cd /Users/eugene/Desktop/HW_10/HW_10 
+  363  history 0  > command_list.csv
+  364  git add .
+  365  git commit -m "Install to repositoty"
+  366  git push
+  367  git config --global user.name "YevhenSushchevskyi"
+  368  git config --global user.email "www.belorusskyi@gmail.com"
+  369  git clone https://github.com/YevhenSushchevskyi/HW_10.git
+  370  cd /Users/eugene/Desktop/HW_10 
+  371  git clone https://github.com/YevhenSushchevskyi/HW_10.git
+  372  cd HW_10
+  373  touch text_ignore.txt
+  374  echo text_ignore.txt > .gitignore
+  375  git status
+  376  git add.
+  377  git commit -m "files were added"
+  378  touch main_test.txt
+  379  git add .
+  380  git commit -m "main_test.txt was added"
+  381  git checkout -b develop
+  382  touch develop_test.txt
+  383  git add .
+  384  git commit -m "develop_test.txt was added"
+  385  echo someText > develop_test.txt
+  386  git status
+  387  git add .
+  388  git commit -m "develop_test.txt was changed"
+  389  git checkout main
+  390  git merge develop
+  391  git log
+  392  history > command_list.csv
+  393  git push
+  394  git push
+  395  history > command_list.csv
+  396  git push
+  397  git commit -m "command_list.csv was added"
+  398  git push
+  399  git add .
+  400  git log
+  401  git push
+  402  history > command_list.csv
+  403  git add .
+  404  git commit -m "commit message"
+  405  git push
+  406  git config --global user.name "YevhenSushchevskyi"
+  407  git config --global user.email "www.belorusskyi@gmail.com"
+  408  cd /Users/eugene/Desktop/HW_10 
+  409  git clone https://github.com/YevhenSushchevskyi/HW_10.git
+  410  cd /Users/eugene/Desktop/HW_10/HW_10 
+  411  touch text_ignore.txt
+  412  echo text_ignore.txt > .gitignore
+  413  git status
+  414  git add .
+  415  git commit -m "files were added"
+  416  touch main_test.txt
+  417  git add .
+  418  git commit -m "main_test.txt was added"
+  419  git checkout -b develop
+  420  touch develop_test.txt
+  421  git add .
+  422  git commit -m "develop_test.txt was added"
+  423  echo someText > develop_test.txt
+  424  git status
+  425  git add .
+  426  git commit -m "develop_test.txt was changed"
+  427  git checkout main
+  428  git merge develop
+  429  git checkout develop
+  430  git commit -m "develop_test.txt. was changed"
+  431  git checkout main
+  432  git commit -m "develop_test.txt was change"
+  433  git checkout main
+  434  git merge develop
+  435  git log
+  436  git --global user.name "YevhenSushchevskyi"
+  437  clear
+  438  git config --global user.name "YevhenSushchevskyi"
+  439  git config --global user.name "YevhenSushchevskyi"
+  440  git config --global user.name "YevgenSushchevskyi"
+  441  git config --global user.email "www.belorusskyi@gmail.com"
+  442  cd /Users/eugene/Desktop/HW_10 
+  443  git clone https://github.com/YevhenSushchevskyi/HW_10.git
+  444  cd /Users/eugene/Desktop/HW_10 
+  445  touch text_ignore.txt
+  446  echo text_ignore.txt > .gitignore
+  447  git status
+  448  git add .
+  449  cd /Users/eugene/Desktop/HW_10 #
+  450  cd /Users/eugene/Desktop/HW_10 
+  451  cd /Users/eugene/Desktop/HW_10/HW_10 
+  452  touch text_ignore.txt
+  453  echo text_ignore.txt > .gitignore
+  454  git status
+  455  git add .
+  456  git commit -m "files were added"
+  457  touch main_test.txt
+  458  git add .
+  459  git commit -m "main_test.txt was added"
+  460  git checkout -b develop
+  461  touch develop_test.txt
+  462  git add .
+  463  git commit -m "develop_test.txt was added"
+  464  echo someText > develop_test.txt
+  465  git status
+  466  git add .
+  467  git commit -m "develop_test.txt was changed"
+  468  git checkout main
+  469  git add .DS_Store
+  470  git add develop_test.tst
+  471  git add .develop_test.txt
+  472  git add .
+  473  git commit -m "develop_test.txt changed"
+  474  git checkout main
+  475  git add .
+  476  git checkout main
+  477  git add .
+  478  git commit -m "develop_test.txt was update"
+  479  git add .
+  480  git checkout main
+  481  git commit -m "develop_test.txt was update"
+  482  git checkout main
+  483  git add .DS_Store
+  484  git commit -m "develop_test.txt was update"
+  485  git checkout main
+  486  git add.DS_Store
+  487  gir add .
+  488  git add .DS_Store
+  489  git add .
+  490  git commit -m "develop_test.txt was update"
+  491  git add .
+  492  git checkout main
+  493  clear
+  494  cd /Users/eugene/Desktop/HW_10 
+  495  git clone https://github.com/YevhenSushchevskyi/HW_10.git
+  496  cd /Users/eugene/Desktop/HW_10/HW_10 
+  497  touch text_ignore.txt
+  498  echo text_ignore.txt > .gitignore
+  499  git status
+  500  git add .
+  501  git commit -m "files were added"
+  502  touch main_test.txt
+  503  git add .
+  504  git commit -m "main_test.txt was added"
+  505  git checkout -b develop
+  506  touch develop_test.txt
+  507  git add .
+  508  git commit -m "develop_test.txt was added"
+  509  echo someText > develop_test.txt
+  510  git status
+  511  git add .
+  512  git commit -m "develop_test.txt was changed"
+  513  git checkout
+  514  git checkout main
+  515  git commit -m "develop_test.txt was update"
+  516  git checkout main
+  517  git checkout develop
+  518  git commit -m "develop_test.txt was changed"
+  519  git checkout main
+  520  git log
+  521  git checkout main
+  522  git merge main
+  523  git merge develop
+  524  history > command_list.csv
+  525  git push
+  526  cd /Users/eugene/Desktop/HW_10 
+  527  git clone https://github.com/YevhenSushchevskyi/HW_10.git
+  528  cd /Users/eugene/Desktop/HW_10/HW_10 
+  529  touch text_ignore.txt
+  530  echo "text_ignore.txt" >> .gitignore\n
+  531  git status
+  532  git add .
+  533  cd /Users/eugene/Desktop/HW_10 
+  534  git clone https://github.com/YevhenSushchevskyi/HW_10.git
+  535  cd /Users/eugene/Desktop/HW_10/HW_10 
+  536  touch text_ignore.txt
+  537  echo "text_ignore.txt" >> .gitignore
+  538  git status
+  539  git add .
+  540  git commit -m "Add text_ignore.txt and update .gitignore"
+  541  touch main_test.txt
+  542  git add .
+  543  git commit -m "Add main_test.txt"
+  544  git checkout -b develop
+  545  touch develop_test.txt
+  546  git add .
+  547  git commit -m "Add develop_test.txt"
+  548  echo "This is a change for the develop branch" >> develop_test.txt
+  549  git status
+  550  git add .
+  551  git commit -m "Update develop_test.txt"
+  552  git checkout main
+  553  git merge develop
+  554  git log
